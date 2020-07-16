@@ -51,5 +51,5 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 <br>
 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown &nbsp;
+  Made with :heart: using GitHub Markdown &nbsp;
 </p>
