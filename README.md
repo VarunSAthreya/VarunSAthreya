@@ -47,9 +47,3 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 <p align="center">
     <i> Let's connect! :incoming_envelope: </i>
 </p>
-
-<br>
-
-<p align="center">
-  Made with :heart: using GitHub Markdown &nbsp;
-</p>
