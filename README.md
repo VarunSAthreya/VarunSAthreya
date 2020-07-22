@@ -14,7 +14,7 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 ### More About Me:
 
 -   🔭 I’m currently working on Flutter and ReactJS
--   🌱 I’m currently learning Node and ExpresS
+-   🌱 I’m currently learning NodeJS and ExpresJS
 -   🤔 I’m looking for help with backend
 -   💬 Ask me about anything, I am happy to help
 -   📫 How to reach me: varun.sathreya@gmail.com
