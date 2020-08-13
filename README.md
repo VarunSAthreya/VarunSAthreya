@@ -17,7 +17,7 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 -   🌱 I’m currently learning NodeJS and ExpresJS
 -   🤔 I’m looking for help with backend
 -   💬 Ask me about anything, I am happy to help
--   📫 How to reach me: varun.sathreya@gmail.com
+-   📫 How to reach me: [mail](mailto:varun.sathreya@gmail.com)
 -   ⚡ Fun fact: '2' + '2' - '2' == '20'
 
 ### Languages and Tools:
