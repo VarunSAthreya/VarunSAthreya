@@ -44,6 +44,4 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
     <img src="https://github-readme-stats.vercel.app/api?username=varunsathreya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
 
-<p align="center">
-    <i> Let's connect! :incoming_envelope: </i>
-</p>
+***[Let's connect! :incoming_envelope:](mailto:varun.sathreya@gmail.com)***
