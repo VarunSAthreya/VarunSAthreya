@@ -7,18 +7,18 @@
 
 ## Hey 👋, I'm [Varun](https://github.com/VarunSAthreya/)
 
-I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing BE in Computer Sceince 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming and watching Anime.
+I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Sceince 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming and watching Anime.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LM723EVdYkKqY/giphy.gif" width="30%" height="30%"/>
   
 ### More About Me:
 
 -   🔭 I’m currently working on Flutter and ReactJS
--   🌱 I’m currently learning Node and ExpresS
+-   🌱 I’m currently learning TypeScript
 -   🤔 I’m looking for help with backend
 -   💬 Ask me about anything, I am happy to help
--   📫 How to reach me: varun.sathreya@gmail.com
--   ⚡ Fun fact: **What is 1000 minus 7?**
+-   📫 How to reach me: [mail](mailto:varun.sathreya@gmail.com)
+-   ⚡ Fun fact: '2' + '2' - '2' == '20'
 
 ### Languages and Tools:
 
@@ -45,11 +45,8 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 </p>
 
 <p align="center">
-    <i> Let's connect! :incoming_envelope: </i>
-</p>
+  <a href='mailto:varun.sathreya@gmail.com'>
+    <b><i>Let's connect! :incoming_envelope:</i></b>
+  </a>
+ </p>
 
-<br>
-
-<p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
