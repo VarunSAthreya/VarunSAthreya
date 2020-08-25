@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  
+
 </p>
 
-<br>
+<br> -->
 
 ## Hey 👋, I'm [Varun](https://github.com/VarunSAthreya/)
 
