@@ -14,10 +14,10 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 ### More About Me:
 
 -   🔭 I’m currently working on Flutter and ReactJS
--   🌱 I’m currently learning TypeScript
+-   🌱 I’m currently learning TypeScript and NextJS
 -   🤔 I’m looking for help with backend
 -   💬 Ask me about anything, I am happy to help
--   📫 How to reach me: [mail](mailto:varun.sathreya@gmail.com)
+-   📫 How to reach me: [Mail](mailto:varun.sathreya@gmail.com) [Linkdin](https://www.linkedin.com/in/varunsathreya/)
 -   ⚡ Fun fact: '2' + '2' - '2' == '20'
 
 ### Languages and Tools:
