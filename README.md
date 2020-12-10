@@ -1,8 +1,6 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-
 </p>
-
 <br> -->
 
 ## Hey 👋, I'm [Varun](https://github.com/VarunSAthreya/)
@@ -41,12 +39,14 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=graywhite&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]()
+<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]()
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarunSAthreya&theme=gotham&show_icons=true&include_all_commits=true" />
 
 <p align="center">
   <a href='mailto:varun.sathreya@gmail.com'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
   </a>
  </p>
-
