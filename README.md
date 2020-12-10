@@ -42,9 +42,9 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 <!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]()
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarunSAthreya&theme=gotham&show_icons=true&include_all_commits=true" />
-
+</p>
 <p align="center">
   <a href='mailto:varun.sathreya@gmail.com'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
