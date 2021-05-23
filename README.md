@@ -2,12 +2,17 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 <br> -->
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="70%" height="70%"/>
+</p>
+<p align="center">
+     <img src="https://profile-counter.glitch.me/{VarunSAthreya}/count.svg"  alt="counter"/>
+</p>
 
-## Hey 👋, I'm [Varun](https://varunsathreya.github.io/)
+Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
 
-I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
+                                                                           
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/LM723EVdYkKqY/giphy.gif" width="30%" height="30%"/>
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
 
@@ -24,6 +29,7 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 <code><img width="70px"  src="https://img.icons8.com/color/2x/css3.png"></code>
  <code><img width="70px" src="https://img.icons8.com/color/50/000000/git.png"/></code>
  <code><img width="70px" src="https://img.icons8.com/fluent/50/000000/console.png"/></code>
+  <code> <img  width="55px" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"></code>
  <code><img width="70px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
  <code><img width="70px" src="https://img.icons8.com/color/50/000000/redux.png"/></code>
 
@@ -46,22 +52,33 @@ I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer
 </p>
 
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=VarunSAthreya&theme=react-dark&count_private=true" alt="VarunSAthreya" />
+  
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSAthreya&theme=gotham&layout=compact&count_private=true" alt="VarunSAthreya" />
 </p>
-
+  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VarunSAthreya&show_icons=true&theme=gotham&count_private=true" alt="VarunSAthreya" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSAthreya&theme=gotham&layout=compact&count_private=true" alt="VarunSAthreya" />
+<img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=VarunSAthreya&theme=react-dark&count_private=true" alt="VarunSAthreya" />
 </p>
+
 <!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]() -->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<br/>
+<br/>
+  
+<!-- <pre>  -->
+<!-- <div align="center"> 
+<a id="raw-url" href="https://drive.google.com/file/d/1HndG0C-8xceo682DcHHeoow4DicNlsU5/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=black&style=for-the-badge"/></a>
+</div> -->
+<!-- </pre> -->
+
+  
 <p align="center">
   <a href='mailto:varun.sathreya@gmail.com'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
