@@ -5,7 +5,7 @@
 
 ## Hey 👋, I'm [Varun](https://github.com/VarunSAthreya/)
 
-I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Sceince 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming and watching Anime.
+I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming and watching Anime.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LM723EVdYkKqY/giphy.gif" width="30%" height="30%"/>
   
