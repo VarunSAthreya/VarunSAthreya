@@ -3,48 +3,65 @@
 </p>
 <br> -->
 
-## Hey 👋, I'm [Varun](https://github.com/VarunSAthreya/)
+## Hey 👋, I'm [Varun](https://varunsathreya.github.io/)
 
-I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming and watching Anime.
+I am Varun S Athreya, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LM723EVdYkKqY/giphy.gif" width="30%" height="30%"/>
-  
-### More About Me:
+<img align="center" alt="GIF" src="https://media.giphy.com/media/LM723EVdYkKqY/giphy.gif" width="30%" height="30%"/>
 
--   🔭 I’m currently working on Flutter and ReactJS
--   🌱 I’m currently learning TypeScript and NextJS
--   🤔 I’m looking for help with backend
--   💬 Ask me about anything, I am happy to help
--   📫 How to reach me: [Mail](mailto:varun.sathreya@gmail.com) [Linkdin](https://www.linkedin.com/in/varunsathreya/)
--   ⚡ Fun fact: '2' + '2' - '2' == '20'
+### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
 
-### Languages and Tools:
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]()
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarunSAthreya&theme=gotham&show_icons=true&include_all_commits=true" />
+ <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/react-native.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
+ <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/mongodb.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/dart.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/typescript.png"></code>
+ <code><img width="70px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
+<code ><img width="70px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img width="70px"  src="https://img.icons8.com/color/2x/css3.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/50/000000/git.png"/></code>
+ <code><img width="70px" src="https://img.icons8.com/fluent/50/000000/console.png"/></code>
+ <code><img width="70px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
+ <code><img width="70px" src="https://img.icons8.com/color/50/000000/redux.png"/></code>
+
 </p>
+</br>
+
+### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+
+<p align="center">
+  <a href="https://github.com/rahul975337/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSAthreya&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+
+### <h2 align="center">🏆 Github Trophies 🏆<h2/>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=VarunSAthreya&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
+  </a>
+</p>
+
+### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=VarunSAthreya&theme=react-dark&count_private=true" alt="VarunSAthreya" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VarunSAthreya&show_icons=true&theme=gotham&count_private=true" alt="VarunSAthreya" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSAthreya&theme=gotham&layout=compact&count_private=true" alt="VarunSAthreya" />
+</p>
+<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]() -->
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <p align="center">
   <a href='mailto:varun.sathreya@gmail.com'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
