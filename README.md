@@ -39,7 +39,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 
 <p align="center">
-  <a href="https://github.com/rahul975337/github-readme-streak-stats">
+  <a href="https://github.com/VarunSAthreya/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSAthreya&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
