@@ -80,7 +80,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 
   
 <p align="center">
-  <a href='mailto:varun.sathreya@gmail.com'>
+  <a href='https://www.linkedin.com/in/varunsathreya/'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
   </a>
  </p>
