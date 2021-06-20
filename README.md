@@ -19,6 +19,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 <p align="center">
  <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
  <code><img width="70px" src="https://img.icons8.com/color/2x/react-native.png"></code>
+  <code><img height="70px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
  <code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
  <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
  <code><img width="70px" src="https://img.icons8.com/color/2x/mongodb.png"></code>
