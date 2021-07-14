@@ -9,7 +9,7 @@
      <img src="https://profile-counter.glitch.me/{VarunSAthreya}/count.svg"  alt="counter"/>
 </p>
 
-Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
+Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank">Varun S Athreya</a></strong>, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
 
                                                                            
 
