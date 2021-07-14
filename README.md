@@ -48,7 +48,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=VarunSAthreya&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=VarunSAthreya&row=2&column=4&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
   </a>
 </p>
 
