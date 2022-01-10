@@ -9,12 +9,11 @@
      <img src="https://profile-counter.glitch.me/{VarunSAthreya}/count.svg"  alt="counter"/>
 </p>
 
-Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
+Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank">Varun S Athreya</a></strong>, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Gaming and watching Anime.
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
 
 <p align="center">
-
   <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
   <code><img width="70px" src="https://img.icons8.com/color/2x/react-native.png"></code>
   <code><img height="70px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
@@ -40,7 +39,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 
 <p align="center">
-  <a href="https://github.com/rahul975337/github-readme-streak-stats">
+  <a href="https://github.com/VarunSAthreya/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSAthreya&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
@@ -48,7 +47,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=VarunSAthreya&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=VarunSAthreya&row=2&column=4&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
   </a>
 </p>
 
@@ -80,7 +79,7 @@ Hey 👋,I am [Varun S Athreya](https://varunsathreya.github.io/), a Mobile :iph
 <!-- </pre> -->
 
 <p align="center">
-  <a href='mailto:varun.sathreya@gmail.com'>
+  <a href='https://www.linkedin.com/in/varunsathreya/'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
   </a>
  </p>
