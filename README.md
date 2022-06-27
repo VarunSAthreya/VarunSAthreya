@@ -56,13 +56,11 @@ Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank"
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VarunSAthreya&show_icons=true&theme=gotham&count_private=true" alt="VarunSAthreya" />
+
 </p>
 
-   <p align="center">
-    <a href="https://profile.codersrank.io/user/varunsathreya/#Tech%20Skills" target="_blank">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=VarunSAthreya&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C%23,C%2B%2B,CSS,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Dart,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Go,HTML&bg=white" alt="VarunSAthreya" width="70%" height="70%" />
-      </a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact" alt="VarunSAthreya" />   
 </p>
   
 <p align="center">
@@ -71,8 +69,8 @@ Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank"
   
 
 
-<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]() -->
+<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)-->
+ 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br/>
