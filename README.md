@@ -60,7 +60,7 @@ Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank"
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact" alt="VarunSAthreya" />   
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=VarunSAthreya&layout=compact&langs_count=6&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VarunSAthreya's Language stats" />
 </p>
   
 <p align="center">
