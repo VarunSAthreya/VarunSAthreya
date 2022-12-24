@@ -64,7 +64,7 @@ Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank"
 </p>
   
 <p align="center">
-<img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=VarunSAthreya&theme=react-dark&count_private=true" alt="VarunSAthreya" />
+<img width="80%" height="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=VarunSAthreya&theme=react-dark&count_private=true" alt="VarunSAthreya" />
 </p>
   
 
