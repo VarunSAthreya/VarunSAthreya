@@ -16,7 +16,7 @@ Hey 👋,I am <strong><a href="https://varunsathreya.github.io/" target="_blank"
 <p align="center">
   <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
   <code><img width="70px" src="https://img.icons8.com/color/2x/react-native.png"></code>
-  <code><img height="70px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
+  <code><img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/311px-Nextjs-logo.svg.png"></code>
   <code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
   <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <code><img width="70px" src="https://img.icons8.com/color/2x/graphql.png"></code>
